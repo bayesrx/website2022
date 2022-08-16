@@ -1,5 +1,5 @@
 ---
-title: "A really cool person"
+title: "Bayesrx Website"
 output: 
   html_document:
     includes:
@@ -12,5 +12,5 @@ output:
 
 ### This is your homepage
 
-go wild
+Lets see how it goes
 
