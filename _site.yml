@@ -1,10 +1,10 @@
 name: A cool Website!
 output_dir: '.'
 navbar:
-  title: Home
+  title: Bayesrx
   type: default
   left:
-  - text: Research
+  - text: Research Group
     href: research.html
   - text: Papers
     href: papers.html
@@ -12,8 +12,8 @@ navbar:
     href: software.html
   - text: Teaching
     href: teaching.html
-  - text: Tutorials
-    href: http://learnxinyminutes.com
+  - text: Team
+    href: team.html
     
   right:
   - icon: fa-envelope fa-lg
