@@ -1,0 +1,23 @@
+---
+title: 
+output: 
+  html_document:
+    includes:
+       in_header: ga_script.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="academicons.css"/>
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+### papers go here
+
+paper 1
+
+paper 2
+
+
+
